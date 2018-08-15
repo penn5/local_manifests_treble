@@ -2,5 +2,5 @@
 <manifest>
   <project name="Athmeme/android_device_motorola_athene" path="device/motorola/athene" remote="github" revision="lineage-15.1-treble" />
   <project name="Lyudmila17/vendor_motorola_athene" path="vendor/motorola/athene" remote="github" revision="lineage-15.1-treble" />
-  <project name="Lyudmila17/android_kernel_motorola_msm8952" path="kernel/motorola/msm8952" remote="github" revision="cm-11.0" />
+  <project name="Lyudmila17/android_kernel_motorola_msm8952" path="kernel/motorola/msm8952" remote="github" revision="lineage-15.1-treble" />
 </manifest>
